@@ -1,3 +1,3 @@
-if defined?(Mongrel)
-  require "mongrel_proctitle"
+if defined?(PhusionPassenger)
+  require "passenger_proctitle"
 end
